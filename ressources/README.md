@@ -17,4 +17,6 @@ Chaque ligne représente une machine observée à un instant de référence. Les
 
 ## Illustrations
 
-Les PNG sont statiques afin de rester visibles avant toute exécution. Ils sont organisés par journée et intégrés directement dans les notebooks.
+Les illustrations PNG et SVG sont statiques afin de rester visibles avant toute exécution. Elles sont organisées par journée et intégrées directement dans les notebooks. Les figures numériques montrent les opérations, les dimensions et les erreurs à interpréter.
+
+Le jour 4 crée des cycles synthétiques en paires : mêmes mesures et mêmes résumés, mais deux ordres différents des événements température/vibration. Chaque paire reste dans un seul ensemble train, validation ou test.
